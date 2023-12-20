@@ -1,0 +1,18 @@
+# 💫 About Me:
+Hello to all programming enthusiasts! 👋 I'm Patricio Escobar, a 30-year-old Python developer based in beautiful Argentina.<br><br>In the vast world of code, I find myself on an exciting journey to stand out and overcome any challenge that comes my way. My devotion to Python is more than a choice; it's a personal connection to the elegance and power of this versatile language.<br><br>While my professional experience is in its early stages, my desire to excel and participate in exciting projects is unwavering. My philosophy is simple: every line of code is an opportunity to learn, improve, and contribute to the digital world in meaningful ways.<br><br>From algorithms to data structures, I dive into problem-solving with a unique blend of creativity and determination. My goal is not only to write functional code but also to create ingenious solutions that stand out and efficiently solve problems.<br><br>I'm eager to be part of challenging projects that broaden my horizons and allow me to collaborate with brilliant minds in the field of technology. My mindset of continuous learning drives me to embrace new technologies and methodologies, always seeking innovative ways to tackle problems.<br><br>As a passionate developer, I'm ready to offer my dedication, creativity, and technical skills to teams looking to reach new heights. My thirst for knowledge and proactive attitude are the fuel that propels me to stand out and exceed expectations.<br><br>If you're seeking a programmer hungry for success, willing to tackle any challenge with enthusiasm and commitment, you've come to the right place! I'm excited about the opportunity to contribute to amazing projects and grow alongside talented teams.<br><br>Let's make every line of code count and build the future together! 🚀💻
+
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/patricio-eduardo-escobar-63a59a26b) 
+
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=reproevo&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=reproevo&theme=vue-dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=reproevo&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=reproevo&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
